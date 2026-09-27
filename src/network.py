@@ -1,7 +1,7 @@
 import torch
 from torch import nn
 
-class NeuralNetwork(torch.Module):
+class Model(nn.Module):
     def __init__(self, im_size):
         super().__init__()
         self.flatten = nn.Flatten()

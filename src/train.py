@@ -1,5 +1,4 @@
 import torch
-from torch import nn
 
 import utils
 from config import data as conf

@@ -5,7 +5,6 @@ from torch import optim
 from torchvision import datasets
 from torchvision.transforms import v2
 
-import numpy
 from pathlib import Path
 from matplotlib import pyplot as plt
 

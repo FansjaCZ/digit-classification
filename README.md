@@ -1,5 +1,5 @@
-# Digit recognition model
-Simple AI model for recognizing digits, trained and tested with the MNIST dataset.
+# Digit classification model (CNN)
+Simple CNN model for recognizing digits, trained and tested with the MNIST dataset.
 
 ## Requirements:
 - Python 3.14.x
@@ -8,6 +8,7 @@ Simple AI model for recognizing digits, trained and tested with the MNIST datase
 - matplotlib
 - pathlib
 - tomllib
+
 There are no API keys in this project.
 
 ## Training
